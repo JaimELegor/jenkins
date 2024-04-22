@@ -1,0 +1,5 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED             STATUS                         PORTS     NAMES
+b3b5f7da2924   sampleapp      "/bin/sh -c 'python3…"   11 minutes ago      Exited (137) 5 minutes ago               samplerunning
+0e88370e60b6   099bf23b94d9   "/bin/sh -c 'pip ins…"   About an hour ago   Exited (2) About an hour ago             gracious_chaplygin
+0fa521426264   099bf23b94d9   "/bin/sh -c 'pip ins…"   About an hour ago   Exited (2) About an hour ago             youthful_hertz
+9956f044fb5d   099bf23b94d9   "/bin/sh -c 'pip ins…"   About an hour ago   Exited (2) About an hour ago             great_ride
